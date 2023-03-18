@@ -15,5 +15,4 @@ JAVASCRIPT
 
 ## Screenshot
 
-![App Screenshot](https://github.com/karanSuman/Login-Register/blob/main/Login-Register/Screenshot.png)
-
+![App Screenshot](https://github.com/karanSuman/Login-Register/blob/main/Screenshot.png)
